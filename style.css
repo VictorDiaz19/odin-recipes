@@ -1,0 +1,14 @@
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+    list-style-position: inside;
+    background-color: #cce5ff;
+    padding: 5px;
+    color: darkblue;
+}
