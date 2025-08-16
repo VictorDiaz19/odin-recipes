@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio {
+    background-color: red;
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: -7px;
+    background-color: #cce5ff;
+    color: darkblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.creditos {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+h2 {
+    background-color: rgb(247, 117, 117);
+    color: darkred;
+    padding: 10px;
+}
+
+.lista {
+    background-color: rgb(238, 232, 152);
+    color: darkgoldenrod;
+    padding: 10px;
+    list-style-position: inside;
+}
+
+ul {
+    list-style-type: square;
+}
